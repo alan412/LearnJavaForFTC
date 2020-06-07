@@ -1,9 +1,6 @@
-# LearnJavaForFTC
-This is for learning Java for FTC
-
 ![Book Cover](BookCover.png)
 
-[Draft of the book](LearnJavaForFTC.pdf)
+[PDF of the book contents](LearnJavaForFTC.pdf)
 
 1. This is the first draft, so I don't intend additional content at this point. 
 2. Soon, I will make this live on Amazon so please send comments as you have them.
