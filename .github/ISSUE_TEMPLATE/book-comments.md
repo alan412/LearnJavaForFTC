@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Date on version you are commenting on
-July 25, 2020
+July 27, 2020
 
 # Section you are commenting on
 3.2
