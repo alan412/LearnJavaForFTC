@@ -7,6 +7,4 @@
    (Except the ones in the Rumble chapter and the opmodes in the EasyOpenCV chapter)
 3. I would *love* it if you would put [your comments here](https://github.com/alan412/LearnJavaForFTC/issues/new?assignees=&labels=&template=book-comments.md&title=)   
 
-This repository contains the public FTC SDK for the POWERPLAY (2022-2023) competition season.
-
-All of the samples were tested with it.
+All of the samples have been tested with FTC SDK 9.2
