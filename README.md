@@ -7,4 +7,4 @@
    (Except the ones in the Rumble chapter and the opmodes in the EasyOpenCV chapter)
 3. I would *love* it if you would put [your comments here](https://github.com/alan412/LearnJavaForFTC/issues/new?assignees=&labels=&template=book-comments.md&title=)   
 
-All of the samples have been tested with FTC SDK 9.2
+All of the samples have been tested work with FTC SDK 10.0
