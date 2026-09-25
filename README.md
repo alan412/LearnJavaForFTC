@@ -9,3 +9,6 @@
 4. All solutions for the book are in the solution directory on this repo
 
 All of the samples have been tested and the most recent build was with 11.2
+
+If you would like to thank me for providing this, then you can: 
+[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com/alan412)
