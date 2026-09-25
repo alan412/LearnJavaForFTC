@@ -11,4 +11,5 @@
 All of the samples have been tested and the most recent build was with 11.2
 
 If you would like to thank me for providing this, then you can: 
-[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com/alan412)
+<a href="https://www.buymeacoffee.com/alan412" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
